@@ -1,5 +1,5 @@
 # Real Time Multiplayer Chess
-## Demo
+## Live Demo
 
 https://chess-zk23.onrender.com
 
